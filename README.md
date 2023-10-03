@@ -1,2 +1,2 @@
 # dl-assignments
-Solved Deep Learning course assignments, U. de Chile
+Tareas resueltas del curso de **Deep Learning**, Universidad de Chile (Semestre 2023-2).
